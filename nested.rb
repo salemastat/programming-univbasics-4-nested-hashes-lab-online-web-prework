@@ -7,7 +7,7 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay = {
-          known_for : "Object Orientation",
+          known_for: ["Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
